@@ -1,0 +1,24 @@
+
+
+
+
+Shift right in an array;
+
+Yotube search ;
+
+API error codes ;
+
+
+why to use imp and exp waits - indetail ;
+
+how to sequence the test cases in test ng ? -- Preserve order
+
+
+code for exp wait and fluent wait
+
+Code for WebElements method
+
+WAP to reverse a string of each 4 char
+
+` 
+
